@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOGOSort", "BOGOSort.csproj", "{D98424FE-4D2E-485C-9FDD-190E05433935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98424FE-4D2E-485C-9FDD-190E05433935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98424FE-4D2E-485C-9FDD-190E05433935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98424FE-4D2E-485C-9FDD-190E05433935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98424FE-4D2E-485C-9FDD-190E05433935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5913D09B-4972-42F8-8D71-A0B71BF4B48C}
+	EndGlobalSection
+EndGlobal
